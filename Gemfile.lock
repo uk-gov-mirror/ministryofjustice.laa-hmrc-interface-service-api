@@ -118,7 +118,7 @@ GEM
     date (3.6.0)
     deep_merge (1.2.2)
     diff-lcs (1.6.2)
-    domain_name (0.6.20260921)
+    domain_name (0.7.20261007)
     doorkeeper (5.9.9)
       railties (>= 5)
     dotenv (3.2.0)
@@ -217,7 +217,7 @@ GEM
     msgpack (1.8.5)
     multi_json (1.21.2)
     nenv (0.3.0)
-    net-imap (0.6.7)
+    net-imap (0.6.8)
       date
       net-protocol
     net-pop (0.1.2)
@@ -441,7 +441,7 @@ GEM
     uri (1.1.2)
     useragent (0.16.11)
     vcr (6.4.0)
-    webmock (3.29.0)
+    webmock (3.34.0)
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
@@ -538,7 +538,7 @@ CHECKSUMS
   date (3.6.0) sha256=18ac945c4e24ebd93534f8eab8c2fd8c5604b3e977105b3798d62a1e8d27b580
   deep_merge (1.2.2) sha256=83ced3a3d7f95f67de958d2ce41b1874e83c8d94fe2ddbff50c8b4b82323563a
   diff-lcs (1.6.2) sha256=9ae0d2cba7d4df3075fe8cd8602a8604993efc0dfa934cff568969efb1909962
-  domain_name (0.6.20260921) sha256=b335949f69fae603fed0ae88c4e09a51e9d8e3ceef4c73a6cfde44eb5c8dee6d
+  domain_name (0.7.20261007) sha256=0976c6ab837dbde991b433d03acc38fdb91fa8839df31a1ed75ce0318dc0441c
   doorkeeper (5.9.9) sha256=691fc87815c2ea7c075518be26855c2343bb3cf6a41400a92a5782f62786ec86
   dotenv (3.2.0) sha256=e375b83121ea7ca4ce20f214740076129ab8514cd81378161f11c03853fe619d
   drb (2.2.3) sha256=0b00d6fdb50995fe4a45dea13663493c841112e4068656854646f418fda13373
@@ -586,7 +586,7 @@ CHECKSUMS
   msgpack (1.8.5) sha256=97419eaa7b35dfe3e462c0e6c1a3dfdcbfc8756605c09e46e4c6daef127517ba
   multi_json (1.21.2) sha256=245531eaf54bdba57aba515ff08b4503505c5e09911daa89c5a561e2f85bea8e
   nenv (0.3.0) sha256=d9de6d8fb7072228463bf61843159419c969edb34b3cef51832b516ae7972765
-  net-imap (0.6.7) sha256=b5c9573be975d856de252ee851871724da66aa2d449b2482d5690bd12bc23660
+  net-imap (0.6.8) sha256=eb30bb62227b64a3af6b518b04b2375113d69f68f15de59b0193b07d98acf6d9
   net-pop (0.1.2) sha256=848b4e982013c15b2f0382792268763b748cce91c9e91e36b0f27ed26420dff3
   net-protocol (0.4.0) sha256=f9f90c8c6f64794a45160bf422177a336db12809de3beeeaa26b88fcd2e8c853
   net-smtp (0.5.2) sha256=35103cc04d6b2d94632f9928ede07483c24b70b9c0db1f231fea43909b678f3c
@@ -670,7 +670,7 @@ CHECKSUMS
   uri (1.1.2) sha256=89292e98eabbef6248b0a0ed5e7e398e152f83f17560023a6d94a7f492b169fb
   useragent (0.16.11) sha256=700e6413ad4bb954bb63547fa098dddf7b0ebe75b40cc6f93b8d54255b173844
   vcr (6.4.0) sha256=077ac92cc16efc5904eb90492a18153b5e6ca5398046d8a249a7c96a9ea24ae6
-  webmock (3.29.0) sha256=a854b243019d503d3446ab7807c9192f41826d5b673b5dfe0d287ced9606ecbc
+  webmock (3.34.0) sha256=72eed29dc8c00148d592acaedaaa6b869e2e397de57dfc8602b84aa834f46b33
   websocket-driver (0.8.2) sha256=97c556b019bf3410b4961002ac501621e9322d3f8a7bc02161a09301cc4c4146
   websocket-extensions (0.1.5) sha256=1c6ba63092cda343eb53fc657110c71c754c56484aad42578495227d717a8241
   zeitwerk (2.8.3) sha256=2c85125a8467ce069e20123d1e709a08955c9d29c118c25b46b7b7fafdbb92e5
